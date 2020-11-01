@@ -14,7 +14,13 @@ them as reference.
 
 ## Summary
 
-* **Guessing Game** [Solution](https://github.com/EstebanBorai/trpl/tree/main/guessing-game)
+### Chapter 01
+
+* **Hello World** — [Solution](https://github.com/EstebanBorai/trpl/tree/main/hello-world)
+
+### Chapter 02
+
+* **Guessing Game** — [Solution](https://github.com/EstebanBorai/trpl/tree/main/guessing-game)
 
 ## Contribution
 
