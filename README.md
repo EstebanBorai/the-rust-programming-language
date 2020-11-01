@@ -1,14 +1,22 @@
 </div>
-  <h1 align="center">trpl-guessing-game</h1>
+  <h1 align="center">trpl</h1>
   <h4 align="center">
-    Guessing Game from the second chapter on "The Rust Programming Language" book by
-    Steve Klabnik and Carol Nichols
+    "The Rust Programming Language" book by
+    Steve Klabnik and Carol Nichols • Exercises
   </h4>
 </div>
 
-## Why?
+## Motivation
 
-This is the example code available in the second chapter of "The Rust Programming Language Book".
-The book is available online [here](https://doc.rust-lang.org/book/).
+As some chapters from "The Rust Programming Language Book" ends with
+exercises, I decided to put them all together here in order to have
+them as reference.
 
-I'm creating this repo to have a record of the first example taken from the book.
+## Summary
+
+* **Guessing Game** [Solution](https://github.com/EstebanBorai/trpl/tree/main/guessing-game)
+
+## Contribution
+
+Every contribution to this repostory is welcome, the main goal is to have
+the best approach possible to each of the exercises.
