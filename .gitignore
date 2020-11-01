@@ -1,1 +1,11 @@
+# explicitly ignore everything but source files
+
+*
+!*.rs
+!LICENSE
+!*.md
+!*.toml
+!*.lock
+!*.png
+
 target
