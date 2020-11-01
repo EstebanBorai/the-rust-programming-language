@@ -1,4 +1,4 @@
-mod input;
+use utils::{input, input_float, input_int};
 
 fn to_celsius(fahrenheit: f32) -> f32 {
     (fahrenheit - 32_f32) * 0.555
@@ -12,15 +12,15 @@ fn main() {
     println!("[1]: Convert from °F to °C");
     println!("[2]: Convert from °C to °F");
 
-    let option = input::input_int(Some("Select a conversion mode: "));
+    let option = input_int(Some("Select a conversion mode: "));
     match option {
         1 => {
-            let value_to_convert = input::input_float(Some("Enter input value: "));
+            let value_to_convert = input_float(Some("Enter input value: "));
 
             println!("{}°F = {}°C", value_to_convert, to_celsius(value_to_convert))
         },
         2 => {
-            let value_to_convert = input::input_float(Some("Enter input value: "));
+            let value_to_convert = input_float(Some("Enter input value: "));
 
             println!("{}°F = {}°C", value_to_convert, to_fahrenheit(value_to_convert))
         },

@@ -26,6 +26,8 @@ them as reference.
 
 * **Fahrenheit - Celsius Converter** — [Solution](https://github.com/EstebanBorai/trpl/tree/main/fahrenheit-celsius)
 
+* **Calculate the "nth" Fibonacci number** — [Solution](https://github.com/EstebanBorai/trpl/tree/main/nth-fibonacci)
+
 ## Contribution
 
 Every contribution to this repostory is welcome, the main goal is to have
