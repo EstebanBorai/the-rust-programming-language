@@ -1,3 +1,5 @@
+//! Generate the nth Fibonacci number.
+
 use utils::input_int;
 
 /// Calculates the nth fibonacci number

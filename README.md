@@ -35,6 +35,14 @@ them as reference.
 
 * **Calculate the "nth" Fibonacci number** — [Solution](https://github.com/EstebanBorai/trpl/tree/main/nth-fibonacci)
 
+### Chapter 08
+
+* **Average** — [Solution](https://github.com/EstebanBorai/trpl/tree/main/average)
+
+* ~~**Pig Latin** — [Solution](#)~~
+
+* ~~**Departments Distribution App** — [Solution](#)~~
+
 ## Contribution
 
 Every contribution to this repostory is welcome, the main goal is to have

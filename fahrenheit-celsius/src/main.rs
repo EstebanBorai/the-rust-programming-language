@@ -1,3 +1,5 @@
+//! Convert temperatures between Fahrenheit and Celsius.
+
 use utils::{input, input_float, input_int};
 
 fn to_celsius(fahrenheit: f32) -> f32 {
