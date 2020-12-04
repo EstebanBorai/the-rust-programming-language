@@ -1,14 +1,14 @@
 </div>
   <div align="center" style="display: block; text-align: center;">
     <img
-      src="https://raw.githubusercontent.com/EstebanBorai/trpl/main/ferris-from-book.png"
+      src="https://raw.githubusercontent.com/EstebanBorai/learn-rust/main/ferris-from-book.png"
       height="120"
       width="120"
     />
   </div>
-  <h1 align="center">trpl</h1>
+  <h1 align="center">learn-rust</h1>
   <h4 align="center">
-    "The Rust Programming Language" book by
+    Learning "The Rust Programming Language" through the book by
     Steve Klabnik and Carol Nichols • Exercises
   </h4>
 </div>
@@ -39,9 +39,15 @@ them as reference.
 
 * **Average** — [Solution](https://github.com/EstebanBorai/trpl/tree/main/average)
 
-* ~~**Pig Latin** — [Solution](#)~~
+* ~~**Pig Latin**~~
 
-* ~~**Departments Distribution App** — [Solution](#)~~
+* ~~**Departments Distribution App**~~
+
+### Chapter 12
+
+Build `minigrep` a tiny implementation of the `grep` command line tool
+written in Rust by following the Chapter 12 from the book:
+_An I/O Project: Building a command line program_.
 
 ## Contribution
 
