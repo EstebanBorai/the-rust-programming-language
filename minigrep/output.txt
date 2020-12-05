@@ -1,0 +1,19 @@
+# and can only be specified via the --file-lines option.
+# Maximum width of the args of a function call before
+# Maximum width in the body of a struct lit before falling back to vertical formatting.
+# Maximum width in the body of a struct variant before falling back to vertical formatting.
+# Always print the abi for extern items.
+# If function argument parenthesis goes on a newline.
+# Determines if '+' or '=' are wrapped in spaces in the punctuation of types.
+# If there is a trailing comma on structs.
+# If there is a trailing comma on literal structs.
+# Allow last call in method chain to break the line.
+# Retain some formatting characteristics from the source code.
+# Break comments to fit on the line.
+# Leave a space before the colon in a type annotation.
+# Leave a space after the colon in a type annotation.
+# Leave a space before the colon in a trait or lifetime bound.
+# Leave a space after the colon in a trait or lifetime bound.
+# Put spaces around the  .. and ... range operators.
+# Put spaces within non-empty parentheses.
+# Replace uses of the try! macro by the ? shorthand.
