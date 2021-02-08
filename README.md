@@ -6,7 +6,7 @@
       width="120"
     />
   </div>
-  <h1 align="center">learn-rust</h1>
+  <h1 align="center">the-rust-programming-language</h1>
   <h4 align="center">
     Learning "The Rust Programming Language" through the book by
     Steve Klabnik and Carol Nichols • Exercises
